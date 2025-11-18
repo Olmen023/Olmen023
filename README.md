@@ -12,13 +12,15 @@
 
 Estudiante de tercer año de **Ingeniería de Software** en U-TAD, especializado en **ciberseguridad** con enfoque en Red Team, pentesting y ethical hacking. Apasionado por la tecnología, el motor y los mercados financieros.
 
+**Idiomas**: 🇪🇸 Español (Nativo) | 🇬🇧 Inglés (B2)
+
 ```python
 class Hugo:
     def __init__(self):
-        self.location = "Madrid, España 🇪🇸"
+        self.location = "Meco, Madrid 🇪🇸"
         self.education = "Software Engineering @ U-TAD"
         self.interests = ["Cybersecurity", "Red Team", "Full Stack Dev", "Rally Racing 🏎️"]
-        self.current_focus = ["Pentesting", "Server Hardening", "React/Next.js"]
+        self.current_focus = ["Pentesting", "Server Hardening", "React/Next.js", "Design Patterns"]
         
     def say_hi(self):
         print("¡Gracias por visitar mi perfil! 🚀")
@@ -81,10 +83,10 @@ Aplicación de gestión de equipos con integración de calendario, gestión de t
 - **Tech Stack**: Next.js, Supabase, TypeScript
 - **Features**: Calendar sync, Task management, Couples mode
 
-### 🍕 ServeLoop
-Sistema de pedidos para restaurantes mediante códigos QR y digitalización de pagos.
-- **Curso**: Ingeniería de Software
-- **Focus**: QR-based ordering, Payment digitization
+### 🎰 [CasinoRoyale-Patterns](https://github.com/kur0h3i/CasinoRoyale-Patterns)
+Implementación de patrones de diseño en Java aplicados a un sistema de casino.
+- **Tech Stack**: Java
+- **Focus**: Design Patterns, Object-Oriented Design, Software Architecture
 
 ### 🤖 Machine Learning Projects
 Proyectos de CNN para clasificación de imágenes usando arquitecturas custom y transfer learning.
@@ -118,9 +120,11 @@ Proyectos de CNN para clasificación de imágenes usando arquitecturas custom y 
 ## 🎮 Más allá del código
 
 - 🏎️ **Rally Racing** - Apasionado por el motor y la mecánica automotriz
+- 🥋 **Taekwondo** - Practicante de artes marciales
+- 🏕️ **Scout** - Experiencia en trabajo en equipo y liderazgo
 - 💼 **Trading** - Inversor activo con enfoque en tecnología y cripto
 - 🎮 **Gaming** - Automation, Minecraft modding, F1 Management
-- 🍎 **Business** - Experiencia en distribución (negocio familiar)
+- 🍎 **Business** - Experiencia en hostelería y distribución familiar
 
 ## 📫 Conecta conmigo
 
@@ -128,6 +132,7 @@ Proyectos de CNN para clasificación de imágenes usando arquitecturas custom y 
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Olmen023)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugo-olza-mengual-213595293)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoolza1@gmail.com)
   
 </div>
 
