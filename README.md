@@ -137,6 +137,4 @@ Proyectos de CNN para clasificación de imágenes usando arquitecturas custom y 
   
   **"Aprender, hackear, construir, repetir."** 🔐💻🚀
   
-  ![Snake animation](https://github.com/Olmen023/Olmen023/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
